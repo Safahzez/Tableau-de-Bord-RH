@@ -1,0 +1,10 @@
+ Tableau de Bord RH (Ressources humaines)
+Objectif : Suivre les performances et la rétention des employés.
+
+Indicateurs :
+
+Taux de rotation
+
+Répartition par genre, ancienneté, département
+
+Nombre de formations suivies
